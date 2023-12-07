@@ -78,6 +78,6 @@ Here are some ideas to get you started:
 <p>🏆 Baekjoon solved rank 🏆</p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jek3118)](https://solved.ac/jek3118)
-<img src="http://mazandi.herokuapp.com/api?handle={jek3118}&theme=warm"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={jek3118}&theme=warm)
 <!-- <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/> -->
 
