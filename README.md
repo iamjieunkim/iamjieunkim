@@ -77,8 +77,7 @@ Here are some ideas to get you started:
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jek3118)](https://solved.ac/profile/jek3118)
-<!--(https://solved.ac/jek3118) -->
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={jek3118}&theme=warm)
-<img src="http://mazandi.herokuapp.com/api?handle={jek3118}&theme=warm"/>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jek3118)](https://solved.ac/jek3118)
+![mazandi profile](http://mazandi.herokuapp.com/api?jek3118={jek3118}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?jek3118={jek3118}&theme=warm"/>
 
