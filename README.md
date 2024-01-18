@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=iamjieunkim&show_icons=true">
+	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjieunkim&layout=compact">
   <br>           
 
