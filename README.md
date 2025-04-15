@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <div align=center><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjieunkim&layout=compact">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjieunkim&layout=compact"> -->
 
 <p>🏆 Baekjoon solved rank 🏆</p>
 
@@ -75,3 +75,10 @@ Here are some ideas to get you started:
 <!--
 <img src="http://mazandi.herokuapp.com/api?handle={jek3118}&theme=warm"/> -->
 <!--<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">-->
+
+
+<br>
+<br>
+<p>🪪자격사항</p>
+`2021.06` 정보처리기사 자격증 취득
+
