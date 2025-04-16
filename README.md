@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  -->
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> 
  
@@ -53,7 +53,8 @@ Here are some ideas to get you started:
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white">
+<!-- 	<img src="https://img.shields.io/badge/텍스트-아이콘코드?style=flat&logo=아이콘이름&logoColor=white" /> -->
+	<img src="https://img.shields.io/badge/텍스트-아이콘코드?style=flat&logo=아이콘이름&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
